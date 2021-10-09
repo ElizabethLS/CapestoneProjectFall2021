@@ -1,2 +1,11 @@
 html,body {font-family:"Verdana",sans-serif}
 h1,h2,h3,h4,h5,h6 {font-family:"Segoe UI",sans-serif}
+.formContainer{
+    width: 500px;
+    margin-left:auto;
+    margin-right:auto;
+    border: 1px solid lightgrey;
+    box-shadow: 3px 3px lightgray;
+    padding:15px;
+    border-radius: 8px;
+}
